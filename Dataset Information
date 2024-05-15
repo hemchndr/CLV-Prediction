@@ -1,0 +1,45 @@
+Dataset Information:
+
+Link: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II#
+This transactional dataset encompasses all transactions occurring from 2009 to 2011 for a UK-based and registered non-store online retailer. The company primarily sells unique all-occasion gifts, with many customers being wholesalers.
+
+Attribute Information:
+
+InvoiceNo:
+
+Description: Invoice number
+Type: Nominal
+Details: A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'C', it indicates a cancellation.
+StockCode:
+
+Description: Product (item) code
+Type: Nominal
+Details: A 5-digit integral number uniquely assigned to each distinct product.
+Description:
+
+Description: Product (item) name
+Type: Nominal
+Quantity:
+
+Description: Quantity of each product per transaction
+Type: Numeric
+InvoiceDate:
+
+Description: Invoice date and time
+Type: Numeric
+Details: The day and time when each transaction was generated.
+UnitPrice:
+
+Description: Unit price
+Type: Numeric
+Details: Product price per unit in sterling.
+CustomerID:
+
+Description: Customer number
+Type: Nominal
+Details: A 5-digit integral number uniquely assigned to each customer.
+Country:
+
+Description: Country name
+Type: Nominal
+Details: The name of the country where each customer resides.
