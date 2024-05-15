@@ -1,3 +1,5 @@
+### Predicting Customer Lifetime Value and Segmenting Customers for Enhanced Marketing Strategies in E-Commerce###
+
 **Objective:**
 
 The objective of this project is to predict customer lifetime value (CLV) and segment customers based on their CLV. This information will be provided to the marketing team to optimize campaigns and customer acquisition costs (CPA).
